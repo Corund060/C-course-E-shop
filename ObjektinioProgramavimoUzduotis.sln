@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjektinioProgramavimoUzduotis", "ObjektinioProgramavimoUzduotis\ObjektinioProgramavimoUzduotis.csproj", "{B5C6BCD0-E3F2-4AEC-B15D-5292560CC7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjektinioProgramavimoUzduotis_UnitTest", "ObjektinioProgramavimoUzduotis_UnitTest\ObjektinioProgramavimoUzduotis_UnitTest.csproj", "{18CCDB97-9F89-4913-BA06-F9057A4220FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C6BCD0-E3F2-4AEC-B15D-5292560CC7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C6BCD0-E3F2-4AEC-B15D-5292560CC7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C6BCD0-E3F2-4AEC-B15D-5292560CC7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C6BCD0-E3F2-4AEC-B15D-5292560CC7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18CCDB97-9F89-4913-BA06-F9057A4220FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CCDB97-9F89-4913-BA06-F9057A4220FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CCDB97-9F89-4913-BA06-F9057A4220FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CCDB97-9F89-4913-BA06-F9057A4220FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FED19A4F-068F-4C36-B738-A7A59E5CB27A}
+	EndGlobalSection
+EndGlobal

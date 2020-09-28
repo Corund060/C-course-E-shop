@@ -1,0 +1,1 @@
+[{"ID":38922,"Pavadinimas":"Samsung S10","Kaina":200.0,"Kiekis":29,"Ilgis":5,"Plotis":6,"Aukstis":20},{"ID":44595,"Pavadinimas":"Knyga","Kaina":23.0,"Kiekis":58,"Ilgis":3,"Plotis":20,"Aukstis":20},{"ID":29245,"Pavadinimas":"Saldytuvas","Kaina":300.0,"Kiekis":19,"Ilgis":150,"Plotis":50,"Aukstis":50}]
